@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Name": "GitHub",
+  "Author": "Julian Dunn",
+  "ShortDescription": "2022 GitHub Presentation Template",
+  "LongDescription": "Emulation of the 2022 GitHub Presentation Template from Google Slides",
+  "Css": "theme.css",
+  "TitleFont": "Arial Bold",
+  "BodyFont": "Arial Bold",
+  "CssClasses": "variable-size-headings",
+  "Layouts": []
+}

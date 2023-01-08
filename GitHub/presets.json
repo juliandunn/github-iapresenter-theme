@@ -1,0 +1,18 @@
+{
+  "Presets": [
+    {
+      "Name": "Default",
+      "TitleFont": "Arial Bold",
+      "BodyFont": "Arial Bold",
+      "Appearance": "dark",
+      "DarkBodyTextColor": "#0d1117",
+      "LightBodyTextColor": "#ffffff",
+      "DarkTitleTextColor": "#0d1117",
+      "LightTitleTextColor": "#ffffff",
+      "DarkBackgroundColor": "#0a0c10",
+      "LightBackgroundColor": "#ffffff",
+      "DarkAccent1": "#8b949e",
+      "LightAccent1": "#6a737d"
+    }
+  ]
+}
